@@ -11,7 +11,7 @@ import SwiftUI
 struct Scrollable_Tab_BarApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Home()
         }
     }
 }
